@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcgentr
 - 👀 I’m interested in web app development and design, cryptocurrency, and machine learning.
-- 🌱 I’m currently learning TDD with Jest/Enzyme/React, NestJS and Kubernetes/Docker.
+- 🌱 I’m currently working with React, NestJS and Kubernetes/Docker.
 - 💞️ I’m looking to collaborate on any application that excites me and benefits society.
 - 📫 How to reach me -> email: jcgentr@clemson.edu
 
