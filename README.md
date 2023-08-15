@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcgentr
 - 👀 I’m interested in web app development and design, cryptocurrency, and machine learning.
-- 🌱 I’m currently working with React, FastAPI, Kubernetes, Docker and Helm.
+- 🌱 I’m currently working with React, Express, Docker and Kubernetes.
 - 💞️ I’m looking to collaborate on any application that excites me and benefits society.
 - 📫 How to reach me -> email: jared.c.gentry@gmail.com
 
