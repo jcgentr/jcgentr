@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jared Gentry</h1>
-<h3 align="center">A software engineer focusing on frontend web development.</h3>
+<h3 align="center">A software engineer focusing on building fullstack web apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcgentr&label=Profile%20views&color=0e75b6&style=flat" alt="jcgentr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcgentr" alt="jcgentr" /></a> </p>
 
-- 🔭 I’m currently working on [mood](https://github.com/jcgentr/mood).
+- 🔭 I’m currently working on [eavesdrop](https://github.com/jcgentr/eavesdrop).
 
 - 🌱 I’m currently learning **Next.js, AI, and web design**.
 
