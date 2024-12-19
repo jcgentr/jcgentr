@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcgentr" alt="jcgentr" /></a> </p>
 
-- 🔭 I’m currently working on [eavesdrop](https://github.com/jcgentr/eavesdrop).
+- 🔭 I’m currently working on [article-summarizer](https://github.com/jcgentr/article-summarizer).
 
 - 🌱 I’m currently learning **Next.js, AI, and web design**.
 
-- 🤝 I’m looking for help with **finding a web developer job in Japan**.
+- 🤝 I’m looking for help with **starting my own software business**.
 
 - 📝 I write articles on [https://jaredcgentry-com.vercel.app/](https://jaredcgentry-com.vercel.app/).
 
